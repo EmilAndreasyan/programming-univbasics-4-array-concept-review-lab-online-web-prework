@@ -1,4 +1,4 @@
-def find_element_index(array, index)
+def find_element_index(array, 3)
   array = [5, 7, 10, 4, 1]
   array.length.times do |index|
     puts array[index]
