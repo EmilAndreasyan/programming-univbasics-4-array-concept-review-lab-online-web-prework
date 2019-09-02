@@ -1,7 +1,9 @@
 def find_element_index(array, 3)
   array = [5, 7, 10, 4, 1]
   array.length.times do |index|
+    if array[index] = 3 do
     puts array[index]
+  end
   end
 end
 
